@@ -1,0 +1,19 @@
+{
+    "paises": {
+      "El Salvador": {
+        "name": "El Salvador",
+        "code": "ESA",
+        "location": "CA"
+      },
+      "Guatemala": {
+        "name": "Guatemala",
+        "code": "GT",
+        "location": "CA"
+      },
+      "Costa Rica": {
+        "name": "Costa Rica",
+        "code": "CR",
+        "location": "CA"
+      }
+    }
+  }
